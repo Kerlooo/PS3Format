@@ -68,7 +68,7 @@ sudo zypper install dosfstools util-linux
 
 2. Enter the repository folder:
    ```bash
-   cd PS3Format
+   cd PS3Format/scripts
    ```
 
 3. Enable execute privileges:
