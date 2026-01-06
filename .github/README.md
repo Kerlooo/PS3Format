@@ -2,10 +2,6 @@
 
 A simple and user-friendly bash script designed to format USB drives to FAT32 format from the terminal. This tool enables anyone to easily prepare USB devices for compatibility with PlayStation 3 consoles.
 
-## Overview
-
-PS3Format provides a straightforward command-line interface for formatting USB drives. The tool handles all the technical aspects of partitioning and formatting, making it accessible to users of all skill levels.
-
 ## Purpose
 
 This tool was created to simplify the process of preparing USB drives for PlayStation 3 use. By formatting a USB drive to FAT32 (MBR partition table), your device will be recognized and compatible with PS3 systems.
